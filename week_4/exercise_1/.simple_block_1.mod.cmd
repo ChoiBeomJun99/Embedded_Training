@@ -1,0 +1,1 @@
+cmd_/home/choibj/embedded/week_4/exercise_1/simple_block_1.mod := { echo  /home/choibj/embedded/week_4/exercise_1/simple_block_1.o;  echo; } > /home/choibj/embedded/week_4/exercise_1/simple_block_1.mod

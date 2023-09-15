@@ -1,0 +1,1 @@
+cmd_/home/choibj/embedded/ch_11/ch9_mod_201811299.ko := ld -r  -EL  -maarch64elf -z noexecstack   --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o /home/choibj/embedded/ch_11/ch9_mod_201811299.ko /home/choibj/embedded/ch_11/ch9_mod_201811299.o /home/choibj/embedded/ch_11/ch9_mod_201811299.mod.o;  true

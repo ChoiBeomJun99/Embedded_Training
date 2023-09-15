@@ -1,0 +1,1 @@
+cmd_/home/choibj/embedded/week_4/exercise_1/simple_block_1.ko := ld -r  -EL  -maarch64elf -z noexecstack   --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o /home/choibj/embedded/week_4/exercise_1/simple_block_1.ko /home/choibj/embedded/week_4/exercise_1/simple_block_1.o /home/choibj/embedded/week_4/exercise_1/simple_block_1.mod.o;  true
